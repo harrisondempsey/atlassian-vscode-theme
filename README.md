@@ -1,10 +1,10 @@
-# Atlassian Midnight Theme for VS Code
+# Atlassian Theme for VS Code
 
-Atlassian Midnight is a sleek, dark theme for Visual Studio Code inspired by Atlassian's design palette. It aims to provide a comfortable and productive coding environment with a focus on readability and reduced eye strain.
+This is a sleek, dark theme for Visual Studio Code inspired by Atlassian's refreshed design palette. It aims to provide a comfortable and productive coding environment with a focus on readability and reduced eye strain.
 
 ## Features
 
-- **Dark Background**: A deep, dark background (#121212) reduces eye strain during long coding sessions.
+- **Dark Background**: A deep, dark background (#121212) reduces eye strain during long sessions.
 - **Atlassian-Inspired Palette**: Utilizes colors from Atlassian's design system for a cohesive and modern look.
 - **High Contrast**: Carefully chosen colors ensure good readability and clear distinction between different code elements.
 - **Language Optimized**: Syntax highlighting is tuned for a wide range of programming languages.
