@@ -1,0 +1,34 @@
+{
+  "name": "atlassian-midnight-theme",
+  "displayName": "Atlassian Midnight Theme",
+  "description": "A dark VS Code theme inspired by Atlassian's design palette",
+  "version": "1.0.0",
+  "publisher": "YourName",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atlassian Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/atlassian-midnight-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YourUsername/atlassian-midnight-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "atlassian",
+    "midnight",
+    "productivity"
+  ],
+  "license": "MIT"
+}
