@@ -3,7 +3,7 @@
   "displayName": "Atlassian Midnight Theme",
   "description": "A dark VS Code theme inspired by Atlassian's design palette",
   "version": "1.0.0",
-  "publisher": "YourName",
+  "publisher": "Harrison Dempsey",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/YourUsername/atlassian-midnight-theme.git"
+    "url": "https://github.com/haytchde/atlassian-midnight-theme.git"
   },
   "keywords": [
     "theme",
